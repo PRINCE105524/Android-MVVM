@@ -1,4 +1,4 @@
-# Android-MVVM-Boilerplate-Hilt
+# Android-MVVM
 This repository contains a sample project in Kotlin to demonstrate AndroidX, MVVM, Coroutines, Hilt, Room, Data Binding, View Binding, Retrofit, Moshi, Leak Canary and Repository pattern
 
 ## The app has the following base packages:
